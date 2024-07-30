@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "npm:nuxt-nightly@4.0.0-28693174.8aefb554",
+    "nuxt": "npm:nuxt-nightly@4.0.0-28696289.ed54884c",
     "vue": "latest"
   }
 }
